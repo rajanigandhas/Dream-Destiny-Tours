@@ -1,0 +1,122 @@
+.hotel1{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.con1{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    border:1px solid #cecece;
+    border-radius: 25px;
+    /* width: 80%; */
+    
+}
+.p{
+    font-family: "Times New Roman", Times, serif;   
+}
+.text{
+    padding-top: 50px;
+    text-align: left;
+    /* font-family: "Times New Roman", Times, serif; */
+    margin-left: 10px;
+    text-decoration-line: underline;
+    
+}
+.card-text
+{
+    
+    text-align: left;
+}
+
+.card-img-top{
+    height: 30vb;
+}
+.search{
+    width: 50%;
+    margin: auto;
+    border: 1px solid rgb(192, 180, 159);
+    border-radius: 20px;
+    margin-top: 20px;
+    /* font-family: "Times New Roman", Times, serif; */
+}
+
+.btn1   
+{
+    background-color: orangered;
+    border-color: orangered;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* .img-fluid 
+{
+    width:150x;
+} */
+.card-title
+{
+    text-align: left;
+}
+/* .card-body{
+    background-color:#ffff;
+} */
+
+.card-body h5{
+    padding-top: 0%;
+    font-size: 40px;
+}
+
+.card-body p{
+    font-size: 20px;
+}
+
+.btn{
+    margin-right: 360px;
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+    font-size: 20px;
+    width: 200px;
+    padding: 10px;
+}
+.row{
+    margin-top: 20px;
+}
+
+.tour1
+{
+    margin-bottom: 10px;
+    
+}
+.tour1 h1{
+    font-family:cursive;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 25%;
+    /* right: 10%; */
+    width: 100%;
+}
+.img{
+    filter: brightness(50%);
+    
+}
+
+.tour1 h2{
+    font-family:cursive;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 45%;
+    /* right: 10%; */
+    width: 100%;
+    
+}
+.hotelimg{
+    width: 100%;
+}

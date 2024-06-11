@@ -1,0 +1,49 @@
+.corusal-inner{
+height: 100ph;
+}
+
+.Slider-img{
+/* height: 820px;
+width: 1500px; */
+width: 100%;
+height: 100vh;
+margin: top 10px;
+filter: brightness(40%);
+  
+}
+
+/* .container{
+    max-width: 720px;
+} */
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.slide-text{
+   position: absolute;
+    top: 60%;
+    right: 20%;
+    width: 100%;
+    /* transform: translate(-50%,-50%); */
+}
+
+.slide-text h1{
+    font-family:cursive;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 60%;
+    /* right: 10%; */
+    width: 100%;
+}
+
+.btn{
+    background-color: aliceblue;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    
+}
